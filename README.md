@@ -30,10 +30,6 @@ The To-Do List App is a simple and interactive web application designed to help 
 5. Remove tasks by clicking the "Delete" button.
 6. Reminders will trigger an alarm sound before showing an alert.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 -Thanks to [pixabay](https://pixabay.com/sound-effects) for Sound effects to enhance user experience.
