@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exciting Interactive Todo List</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="todo-container">
+    <h1>Todo List</h1>
+    <input type="text" id="new-task" placeholder="Add a new task" />
+    <input type="datetime-local" id="reminder-time" placeholder="Set Reminder Time" />
+    <button id="add-task">Add Task</button>
+    <ul id="task-list"></ul>
+  </div>
+
+  <!-- Sounds -->
+  <audio id="add-sound" src="sounds/add.mp3"></audio>
+  <audio id="delete-sound" src="sounds/delete.mp3"></audio>
+  <audio id="complete-sound" src="sounds/complete.mp3"></audio>
+  <audio id="reminder-sound" src="sounds/reminder.mp3"></audio>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
