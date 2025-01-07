@@ -18,8 +18,8 @@ The To-Do List App is a simple and interactive web application designed to help 
 
 ## Links
 
-- **Repository URL:** [GitHub Repository](https://github.com/Ezekiel-Great/To_do_lists) <!-- Replace with your repository URL -->
-- **Live Site:** [Live Demo](https://ezekiel-great.github.io/To_do_lists/) <!-- Replace with your live site URL -->
+- **Repository URL:** [GitHub Repository](https://github.com/ezekiel673/To_do_lists) <!-- Replace with your repository URL -->
+- **Live Site:** [Live Demo](https://ezekiel673.github.io/To_do_lists/) <!-- Replace with your live site URL -->
 
 ## Usage
 
